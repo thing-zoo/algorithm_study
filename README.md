@@ -6,10 +6,22 @@
 * [Programmers](https://programmers.co.kr/learn/challenges)
 * 추가 예정
 
+## :octocat: How to use Git&Github
+1. 자신이 로컬 저장소를 만든다.
+```git clone https://github.com/thing-zoo/algorithm_study```
+2. 초기에 본인 이름의 branch를 하나 생성한다.
+```git checkout -b [아이디]```
+3. 문제를 풀고 commit한다.
+```git commit -a -m "아이디_사이트_문제"```
+4. 원격 저장소(main)로 올린다.
+```git push -u origin [본인branch]```
+5. github에서 Pull Request를 던진다.
+6. 최소 1명이 리뷰를 하고 merge한다.
+
 ## :open_file_folder: Folder Structure
 * 폴더 구조는 다음과 같다. 
-    * 사이트 폴더 - 문제 폴더 - 소스코드 및 풀이파일
-        * 예) ```BOJ ```폴더 -> ```2557``` 폴더 -> ```thingzoo.py``` , ```thingzoo_풀이.md```
+    * 사이트/문제/파일
+        * 예) ```BOJ/2557/thingzoo.py```
     * 사이트 폴더: 영어로 통일해서 작성하도록 한다.
         * 예) ```BOJ```, ```programmers```
     * 문제 폴더: 숫자를 우선적으로 작성, 숫자가 없다면 영어로 작성한다.
@@ -24,6 +36,10 @@
     * **문제 접근 방법** 
     * **시간 복잡도**
     * **공간 복잡도**
+
+## :speech_balloon: Commit Rule
+* Commit rule은 다음을 참고한다
+    *
 
 ## :speech_balloon: PullRequest(PR) Rule
 * PR rule은 다음을 참고한다
