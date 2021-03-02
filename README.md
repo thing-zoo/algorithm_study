@@ -53,7 +53,7 @@
     * 문제 및 스터디에 대한 회고를 진행한다.
 
 
-## :squirrel: Contributors
+## :rainbow: Contributors
 [Ju](https://github.com/thing-zoo)  | [Se](https://github.com/)  | [Yoon](https://github.com/)
 --|--|--
 
