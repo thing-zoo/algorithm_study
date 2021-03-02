@@ -1,16 +1,12 @@
 # algorithm_study
-> 알고리즘 스터디 with <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+> 알고리즘 스터디 with Python
 
----------------------------------------
+## :computer: Problem Solving Web Site
+* [Baekjoon Online Judge](https://www.acmicpc.net/)
+* [Programmers](https://programmers.co.kr/learn/challenges)
+* 추가 예정
 
-## :computer: 문제 사이트
-> [Baekjoon Online Judge](https://www.acmicpc.net/)
-> [Programmers](https://programmers.co.kr/learn/challenges)
-> 추가 예정
-
----------------------------------------
-
-## :open_file_folder: 폴더 구조
+## :open_file_folder: Folder Structure
 * 폴더 구조는 다음과 같다. 
     * 사이트 폴더 - 문제 폴더 - 소스코드 및 풀이파일
         * 예) ```BOJ ```폴더 -> ```2557``` 폴더 -> ```thingzoo.py``` , ```thingzoo_풀이.md```
@@ -23,15 +19,11 @@
     * 풀이파일: 자신의 ```이름``` 혹은 ```아이디``` 뒤에 ```.풀이.md``` 로 작성한다.
         * ```thingzoo_풀이.md```
 
----------------------------------------
-
-## :page_facing_up: 풀이파일 Rule
+## :page_facing_up: Solving Rule
 * 각 문제마다 다음 내용을 포함하는 파일(.md)을 함께 올리도록 한다.
     * **문제 접근 방법** 
     * **시간 복잡도**
     * **공간 복잡도**
-
----------------------------------------
 
 ## :speech_balloon: PullRequest(PR) Rule
 * PR rule은 다음을 참고한다
@@ -39,9 +31,7 @@
     * ```Pull request``` 제목 및 내용은 자유롭게 한다.
     * ```Merge``` 버튼은 1명이상이 리뷰 comment를 남겼을 때, 마지막 리뷰어가 누르는 것으로 한다. 단, 질문을 남겼을 경우 질문에 대한 답을 받고 ```Merge``` 해야한다.
 
----------------------------------------
-
-## :pencil2: 스터디 Rule
+## :pencil2: Study Rule
 > 일주일에 최소 한번이상 **Commit**하는 것을 규칙으로 한다.
 * 개인
     * 이론 정리
@@ -62,21 +52,16 @@
     * 각자가 찾은 좋은 코드를 공유한다.
     * 문제 및 스터디에 대한 회고를 진행한다.
 
----------------------------------------
 
-## :dancer: Contributors
-> [Ju]()  
-> [Se](https://github.com/meeeeju)  
-> [Yoon](https://github.com/eomdayeon)
+## :squirrel: Contributors
+[Ju](https://github.com/thing-zoo)  | [Se](https://github.com/)  | [Yoon](https://github.com/)
+--|--|--
 
----------------------------------------
 
-## :mag: 참고
+## :mag: Reference
 * https://github.com/epicarts/algorithm-study
 
----------------------------------------
-
-## :calendar: 일정표
-1|2|3
-:---:|:---:|:---:|:---:
-```1주차 IO```<br>(21.03.02 ~ 21.03.07||[2557](https://www.acmicpc.net/problem/2557)|[1000](https://www.acmicpc.net/problem/1000)|[2558](https://www.acmicpc.net/problem/2558)|[10950](https://www.acmicpc.net/problem/10950)|[10951](https://www.acmicpc.net/problem/10951)|[10952](https://www.acmicpc.net/problem/10952)|[10953](https://www.acmicpc.net/problem/10953)|[11021](https://www.acmicpc.net/problem/11021)|[11022](https://www.acmicpc.net/problem/11022)|[11718](https://www.acmicpc.net/problem/11718)|
+## :calendar: Weekly Plan
+날짜|유형|문제
+:---:|:---:|:---:
+```1주차```<br>(21.03.02 ~ 21.03.07)| 입출력 | [2557](https://www.acmicpc.net/problem/2557) [1000](https://www.acmicpc.net/problem/1000) [2558](https://www.acmicpc.net/problem/2558) [10950](https://www.acmicpc.net/problem/10950) [10951](https://www.acmicpc.net/problem/10951)<br> [10952](https://www.acmicpc.net/problem/10952) [10953](https://www.acmicpc.net/problem/10953) [11021](https://www.acmicpc.net/problem/11021) [11022](https://www.acmicpc.net/problem/11022) [11718](https://www.acmicpc.net/problem/11718)
