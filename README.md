@@ -6,7 +6,7 @@
 * [Programmers](https://programmers.co.kr/learn/challenges)
 * 추가 예정
 
-## :octocat: How to use Git&Github
+## :fire: How to use Git&Github
 1. 자신이 로컬 저장소를 만든다.
 ```git clone https://github.com/thing-zoo/algorithm_study```
 2. 초기에 본인 이름의 branch를 하나 생성한다.
@@ -31,15 +31,16 @@
     * 풀이파일: 자신의 ```이름``` 혹은 ```아이디``` 뒤에 ```풀이.md``` 로 작성한다.
         * ```thingzoo_풀이.md```
 
-## :page_facing_up: Solving Rule
+## ::star2: Solving Rule
 * 각 문제마다 다음 내용을 포함하는 파일(.md)을 함께 올리도록 한다.
     * **문제 접근 방법** 
     * **시간 복잡도**
     * **공간 복잡도**
 
-## :speech_balloon: Commit Rule
+## :zap: Commit Rule
 * Commit rule은 다음을 참고한다
-    *
+    * 각자의 브런치에 commit한다.
+    * ```아이디_사이트_문제번호```
 
 ## :speech_balloon: PullRequest(PR) Rule
 * PR rule은 다음을 참고한다
