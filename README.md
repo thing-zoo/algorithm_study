@@ -9,7 +9,7 @@
 ## :fire: How to use Git&Github
 1. 자신이 로컬 저장소를 만든다.
 ```git clone https://github.com/thing-zoo/algorithm_study```
-2. 초기에 본인 이름의 branch를 하나 생성한다.
+2. 새로운 branch를 하나 생성한다.
 ```git checkout -b [아이디]```
 3. 문제를 풀고 commit한다.
 ```git commit -a -m "아이디_사이트_문제"```
@@ -17,6 +17,7 @@
 ```git push -u origin [본인branch]```
 5. github에서 Pull Request를 던진다.
 6. 최소 1명이 리뷰를 하고 merge한다.
+7. 이때 만들었던 branch는 삭제한다.
 
 ## :open_file_folder: Folder Structure
 * 폴더 구조는 다음과 같다. 
